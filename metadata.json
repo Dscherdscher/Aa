@@ -1,0 +1,5 @@
+{
+  "name": "DenTrack Pro",
+  "description": "A comprehensive workout tracking application allowing users to create custom plans, track volume (sets x reps x weight), and analyze progress with AI insights.",
+  "requestFramePermissions": []
+}
